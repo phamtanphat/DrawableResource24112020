@@ -12,5 +12,9 @@
     <TextView
         style="@style/TextView.Title"
         android:text="Header content"/>
+    <Button
+        android:text="Shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
